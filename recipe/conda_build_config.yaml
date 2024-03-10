@@ -1,0 +1,8 @@
+channel_sources:
+  - https://github.com/kpajko79/conda-channel/raw/main, ryanvolz, conda-forge, defaults
+
+channel_targets:
+  - kpajko79 main
+
+gnuradio_extra_pin:
+  - ""
